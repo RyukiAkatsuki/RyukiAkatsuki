@@ -11,7 +11,8 @@ I speak 5 languages, I speak:
 
 ### About me °w°
 Girl MTF Pronoun: She/Her
-<img src="https://tenor.com/view/cat-girl-anime-cute-gif-15198771.gif" align="center">
+<img src="https://tenor.com/view/cat-girl-anime-cute-gif-15198771.gif">
+<br>
 Autodidact, Polyglot, Skillful, Translator
 
 Learning:
