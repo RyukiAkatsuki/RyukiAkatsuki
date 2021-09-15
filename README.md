@@ -6,12 +6,13 @@
 I'm Ryuki Akatsuki, currently a student of IIM 2nd year at DW.
 
 ### Polyglot :crossed_flags:
-I speak 5 languages, I speak: 
+I speak 5 languages, <br> I speak: 
 :fr:, :cn:, :us: / :uk:, :jp: and :es:
 
 ### About me °w°
-Girl MTF Pronoun: She/Her
 <img src="https://tenor.com/view/cat-girl-anime-cute-gif-15198771.gif">
+<br>
+Girl MTF Pronoun: She/Her
 <br>
 Autodidact, Polyglot, Skillful, Translator
 
@@ -33,7 +34,8 @@ Hobbies:
 
 ### Languages & Tools
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" width="300" hight="300">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" width="150" hight="150">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width="150" hight="150">
 
 <!--
 **RyukiAkatsuki/RyukiAkatsuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
