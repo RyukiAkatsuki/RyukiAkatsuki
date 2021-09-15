@@ -1,15 +1,15 @@
 # Welcome to my profile ~
 <img src="https://tenor.com/view/devil-survivor-gif-18075291.gif" align="center">
 
-### Who am I ? 🤔
+# Who am I ? 🤔
 
-I'm Ryuki Akatsuki, currently a student of IIM 2nd year at DW.
+I'm Ryuki Akatsuki, currently a student of IIM 2nd year at DW. 21 Years Old
 
-### Polyglot :crossed_flags:
+# Polyglot :crossed_flags:
 I speak 5 languages, <br> I speak: 
 :fr:, :cn:, :us: / :uk:, :jp: and :es:
 
-### About me °w°
+# About me °w°
 <img src="https://tenor.com/view/cat-girl-anime-cute-gif-15198771.gif">
 <br>
 Girl MTF Pronoun: She/Her
@@ -32,7 +32,7 @@ Hobbies:
 * Playing Games: Mostly in :jp:
 * *and a lot more*
 
-### Languages & Tools
+# Languages & Tools
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" width="150" hight="150">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width="150" hight="150">
