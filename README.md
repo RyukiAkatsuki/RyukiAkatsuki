@@ -1,5 +1,5 @@
 # Welcome to my profile ~
-https://tenor.com/view/devil-survivor-gif-18075291 
+<img src="https://tenor.com/view/devil-survivor-gif-18075291.gif" align="center">
 
 ### Who am I ? 🤔
 
@@ -10,7 +10,8 @@ I speak 5 languages, I speak:
 :fr:, :cn:, :us: / :uk:, :jp: and :es:
 
 ### About me °w°
-Girl MTF :girl: Pronoun: She/Her
+Girl MTF Pronoun: She/Her
+<img src="https://tenor.com/view/cat-girl-anime-cute-gif-15198771.gif" align="center">
 Autodidact, Polyglot, Skillful, Translator
 
 Learning:
@@ -18,12 +19,20 @@ Learning:
 * Full-Stack Languages
 * C#
 * Python
+* Node.js
+* *and a lot more*
 
 Hobbies:
 * Foreign Languages
 * Anime / Manga
 * Reading Light Novel (:jp: and :cn:)
 * Writing Original Stories and Fan Fictions
+* Playing Games: Mostly in :jp:
+* *and a lot more*
+
+### Languages & Tools
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" width="300" hight="300">
 
 <!--
 **RyukiAkatsuki/RyukiAkatsuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
