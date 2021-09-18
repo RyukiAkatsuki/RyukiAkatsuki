@@ -26,6 +26,8 @@ Learning:
 * Node.js
 * *and a lot more*
 
+<img src="https://tenor.com/view/anne-happy-unhappy-go-lucky-an-hanakoizumi-hobbies-gif-5890442.gif">
+
 Hobbies:
 * Foreign Languages
 * Anime / Manga
@@ -50,6 +52,7 @@ Hobbies:
 
 <a href="https://twitter.com/RyukiAkatsuki"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1200px-Twitter_Bird.svg.png" width="150"></a>
 <a href="https://www.twitch.tv/ryukiakatsuki"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Twitch_Glitch_Logo_Purple.svg/878px-Twitch_Glitch_Logo_Purple.svg.png" width="150"></a>
+
 # Thanks for reading uwu ~
 
 <img src="https://tenor.com/view/dance-blush-happy-smiling-anime-gif-16690901.gif">
