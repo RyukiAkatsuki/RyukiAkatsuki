@@ -3,7 +3,9 @@
 
 # Who am I ? 🤔
 
-I'm Ryuki Akatsuki, currently a student of IIM 2nd year at DW. 21 Years Old
+I'm Ryuki Akatsuki, currently a student of IIM 2nd year at DW. 21 Years Old <br>
+Nationality: :fr: <br>
+Origin: :cn:
 
 # Polyglot :crossed_flags:
 I speak 5 languages, <br> I speak: 
@@ -37,12 +39,15 @@ Hobbies:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" width="75" height="75">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" width="75" height="75">
 <img src="https://dashboard.snapcraft.io/site_media/appmedia/2017/11/PyCharmCore256.png" width="75">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Vegas_Pro_15.0.png" width="75">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width="75" height="75">
 <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" width="500">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/320px-PHP-logo.svg.png">
 
 # Contact Me :mailbox:
 
+<a href="https://twitter.com/RyukiAkatsuki"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1200px-Twitter_Bird.svg.png" width="150"></a>
+<a href="https://www.twitch.tv/ryukiakatsuki"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Twitch_Glitch_Logo_Purple.svg/878px-Twitch_Glitch_Logo_Purple.svg.png" width="150"></a>
 # Thanks for reading uwu ~
 
 <img src="https://tenor.com/view/dance-blush-happy-smiling-anime-gif-16690901.gif">
