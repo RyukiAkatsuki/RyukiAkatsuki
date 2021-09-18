@@ -26,7 +26,7 @@ Learning:
 * Node.js
 * *and a lot more*
 
-<img src="https://tenor.com/view/anne-happy-unhappy-go-lucky-an-hanakoizumi-hobbies-gif-5890442.gif">
+<img src="https://tenor.com/view/anne-happy-unhappy-go-lucky-an-hanakoizumi-hobbies-gif-5890442.gif" width="600">
 
 Hobbies:
 * Foreign Languages
