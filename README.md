@@ -34,6 +34,8 @@ Hobbies:
 * Playing Games: Mostly in :jp:
 * *and a lot more*
 
+<a href="https://www.youtube.com/playlist?list=PLhSLeg1IQYcZea41W-oSMAUd6dZBipYGf">My Playlist to listen some music, feel free to use it uwu, for work, study, etc.</a>
+
 # Languages & Tools 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" width="75" height="75">
