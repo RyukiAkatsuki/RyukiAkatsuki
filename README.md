@@ -49,11 +49,17 @@ Hobbies:
 <img src="https://dashboard.snapcraft.io/site_media/appmedia/2017/11/PyCharmCore256.png" width="75">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" width="75" height="75">
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Vegas_Pro_15.0.png" width="75">
+<img src="https://icones.pro/wp-content/uploads/2021/07/logo-photoshop-original.png" width="75">
+<img src="https://atformation.fr/wp-content/uploads/2021/07/adobe_illustrator_logo_icon_170615-1.png" width="75">
+<img src="https://play-lh.googleusercontent.com/kaox1VteLsWAuNxPxhm8t4llaoyFhxzDjo9g4Hdf92bKdT_Sn6Yrdku6rApuc5ktirw" width="75">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/1200px-Adobe_After_Effects_CC_icon.svg.png" width="75" height="75">
+<img src="https://pic.clubic.com/v1/images/1506328/raw" width="75">
 <br>
 <br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width="75" height="75">
 <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/1200px-Java_Logo.svg.png" width="75px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/320px-PHP-logo.svg.png" width="150px">
+<img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="150">
 <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" width="500">
 
 </p>
