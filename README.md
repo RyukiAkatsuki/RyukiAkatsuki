@@ -57,8 +57,8 @@ Hobbies:
 <img src="https://unity3d.com/profiles/unity3d/themes/unity/images/pages/branding_trademarks/unity-tab-square-black.png" width="75">
 <img src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" width="75">
 <img src="https://www.saashub.com/images/app/service_logos/75/77f66f369a4d/large.png?1567737622" width="75">
-<img src="https://assets-global.website-files.com/5efc0159f9a97ba05a8b2902/5f1a93832667035c3755880e_rpg-maker-vx-ace-logo-en.png">
-<img src="https://cdn.akamai.steamstatic.com/steam/apps/292230/header.jpg?t=1591720983">
+<img src="https://assets-global.website-files.com/5efc0159f9a97ba05a8b2902/5f1a93832667035c3755880e_rpg-maker-vx-ace-logo-en.png" width="300">
+<img src="https://cdn.akamai.steamstatic.com/steam/apps/292230/header.jpg?t=1591720983" width="300">
 <br>
 <br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width="75" height="75">
