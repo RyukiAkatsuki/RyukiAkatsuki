@@ -36,7 +36,7 @@ Learning:
 Hobbies:
 * Foreign Languages
 * Anime / Manga
-* Reading Light Novel (:jp: and :cn:)
+* Reading Light Novel (:jp:, :cn:, :us: and :fr:)
 * Writing Original Stories and Fan Fictions
 * Playing Games: Mostly in :jp:
 * *and a lot more*
@@ -72,6 +72,7 @@ Hobbies:
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 </p>
 
 ## Back End 
