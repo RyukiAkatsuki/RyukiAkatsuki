@@ -41,7 +41,7 @@ Hobbies:
 * Playing Games: Mostly in :jp:
 * *and a lot more*
 
-<img src "https://tenor.com/view/100-gif-25740292">
+<img src="https://tenor.com/view/100-gif-25740292">
 
 Game Specialisation on:
 * Shironeko Project (with Spin off: Tennis and soon: Golf)
