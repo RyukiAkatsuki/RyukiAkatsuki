@@ -47,6 +47,7 @@ Game Specialisation on:
 * Shironeko Project (with Spin off: Tennis and soon: Golf)
 * Goetia X
 * Alice Gear Aegis
+* Touhou Project (Character Abilities/lores, Timeline and Spell Card Only)
 * if you need help for these games, I can help you to understand, how it works etc.
 
 <a href="https://www.youtube.com/playlist?list=PLhSLeg1IQYcZea41W-oSMAUd6dZBipYGf">My Playlist to listen some music, feel free to use it uwu, for work, study, etc.</a>
