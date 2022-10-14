@@ -6,7 +6,7 @@
 # Who am I ? 🤔
 
 I'm Ryuki Akatsuki, currently a student of IIM 2nd year at C&DI. 22 Years Old <br>
-Front End Developer<br>
+Front End Developer <br>
 Nationality: :fr: <br>
 Origin: :cn: <br>
 Author Name: Ryuki Akatsuki <br>
@@ -21,7 +21,7 @@ I speak 5 languages, <br> I speak:
 <br>
 Girl MTF Pronoun: She/Her
 <br>
-Autodidact, Polyglot, Skillful, Translator
+Autodidact, Polyglot, Skillful, Translator, Game Scenarist
 
 <img src ="https://tenor.com/view/anime-kon-think-thinking-idea-gif-12396059.gif">
 
@@ -29,8 +29,8 @@ Learning:
 * Foreign Languages
 * Full-Stack Languages
 * C#
-* Python
-* Node.js
+* Translation (Speak and Write)
+* Voice Acting (JP, FR and CN)
 * *and a lot more*
 
 <img src="https://tenor.com/view/dragon-woman-anime-drink-drinking-tea-gif-10743290.gif">
@@ -39,9 +39,18 @@ Hobbies:
 * Foreign Languages
 * Anime / Manga
 * Reading Light Novel (:jp:, :cn:, :us: and :fr:)
-* Writing Original Stories and Fan Fictions
+* Writing Original Stories, Fan Fictions and Game Scenarios (Original or from Manga/Anime/Light Novel)
 * Playing Games: Mostly in :jp:
 * *and a lot more*
+
+<img src="https://tenor.com/view/100-gif-25740292.gif">
+
+Game Specialisation on:
+* Shironeko Project (with Spin off: Tennis and soon: Golf)
+* Goetia X
+* Alice Gear Aegis
+* Touhou Project (Character Abilities/lores, Timeline and Spell Card Only)
+* if you need help for these games, I can help you to understand, how it works etc.
 
 <a href="https://www.youtube.com/playlist?list=PLhSLeg1IQYcZea41W-oSMAUd6dZBipYGf">My Playlist to listen some music, feel free to use it uwu, for work, study, etc.</a>
 
