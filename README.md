@@ -8,7 +8,9 @@
 I'm Ryuki Akatsuki, currently a student of IIM 2nd year at C&DI. 22 Years Old <br>
 Front End Developer<br>
 Nationality: :fr: <br>
-Origin: :cn:
+Origin: :cn: <br>
+Author Name: Ryuki Akatsuki <br>
+Author Name JPN: 暁 竜希
 
 # Polyglot :crossed_flags:
 I speak 5 languages, <br> I speak: 
