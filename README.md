@@ -19,7 +19,8 @@ I speak 5 languages, <br> I speak:
 # About me °w°
 <img src="https://tenor.com/view/cat-girl-anime-cute-gif-15198771.gif">
 <br>
-Girl MTF Pronoun: She/Her
+T-Girl <br>
+Pronoun: She/Her
 <br>
 Autodidact, Polyglot, Skillful, Translator, Game Scenarist
 
@@ -95,7 +96,13 @@ Game Specialisation on:
 # Contact Me :mailbox:
 
 <a href="https://twitter.com/RyukiAkatsuki"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<br>
 <a href="https://www.twitch.tv/ryukiakatsuki"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
+
+# Others
+MyAnimeList - Here you can see what I watch for anime <br>
+<a href="https://myanimelist.net/animelist/RyukiAkatsuki?status=7"><img src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white"></a>
+
 # Thanks for reading uwu ~
 
 <img src="https://tenor.com/view/dance-blush-happy-smiling-anime-gif-16690901.gif">
