@@ -5,7 +5,7 @@
 
 # Who am I ? 🤔
 
-I'm Ryuki Akatsuki, currently a student of IIM 2nd year at C&DI. 22 Years Old <br>
+I'm Ryuki Akatsuki <br>
 Front End Developer <br>
 Nationality: :fr: <br>
 Origin: :cn: <br>
