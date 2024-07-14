@@ -49,7 +49,7 @@ Hobbies:
 Game Specialisation on:
 * Shironeko Project (with Spin off: Tennis and soon: Golf)
 * Goetia X
-* Honkai Gakuen (Can also help about Honkai Star Rail)
+* Honkai Gakuen 2 JP/CN (Can also help about Honkai Star Rail)
 * Touhou Project (Character Abilities/lores, Timeline and Spell Card Only)
 * if you need help for these games, I can help you to understand, how it works etc.
 
